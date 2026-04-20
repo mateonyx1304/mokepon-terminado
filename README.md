@@ -78,7 +78,7 @@ mokepon
 
 1. Clonar repositorio
 
-```bash
+``bash
 git clone https://github.com/mateonyx1304/mokepon-terminado
 
 2. Instalar dependencias (terminal)
